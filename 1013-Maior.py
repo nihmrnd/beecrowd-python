@@ -1,4 +1,3 @@
-import math
 linha1 = input().split(" ")
 a,b,c = linha1
 
